@@ -1,0 +1,28 @@
+    footer {
+      background: #fff;
+      padding: 40px 0;
+      border-top: 1px solid #ddd;
+    }
+    .footer-links a {
+      color: #000;
+      text-decoration: underline;
+      display: block;
+      margin-bottom: 5px;
+      font-size: 14px;
+    }
+    .footer-heading {
+      font-weight: bold;
+      text-transform: uppercase;
+      margin-bottom: 10px;
+    }
+    .social-icons a {
+      color: #000;
+      margin: 0 10px;
+      font-size: 18px;
+    }
+    .subscribe-box input {
+      border-radius: 4px;
+      padding: 8px;
+      border: 1px solid #ccc;
+      width: 250px;
+    }
